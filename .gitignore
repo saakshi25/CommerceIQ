@@ -1,0 +1,7 @@
+*.gz
+*.parquet
+*.duckdb
+data/
+.venv/
+__pycache__/
+.ipynb_checkpoints/

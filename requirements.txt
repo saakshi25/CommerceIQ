@@ -1,0 +1,11 @@
+duckdb
+pandas
+pyarrow
+scikit-learn
+scipy
+statsmodels
+shap
+vaderSentiment
+matplotlib
+streamlit
+ipykernel
